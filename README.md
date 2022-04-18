@@ -1,4 +1,6 @@
-#Hello World!, I'm Vinicius! 🌎
+<h1>Hello World!🌎</h1>
 
-I'm a undergraduate from <a href = "https://www.unasp.br">Adventist University Center of São Paulo</a>. 
+I'm Vinícius, a student at [Adventist University Center of São Paulo]( https://www.unasp.br) and a beginner developer(emoji). [Gif Computer](https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif)
+
+- 
 

@@ -1,3 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vinicius-MAfonso&theme=highcontrast&show_icons=true&count_private=true)
+#Hello World!, I'm Vinicius! 🌎
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-MAfonso&layout=compact)
+I'm a undergraduate from <a href = "https://www.unasp.br">Adventist University Center of São Paulo</a>. 
+

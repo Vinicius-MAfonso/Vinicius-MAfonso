@@ -13,4 +13,4 @@
 
 ### Github Stats and Languages
 
-[![Vinicius-MAfonso GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-MAfonso)](https://github.com/NOMEGIT/github-readme-stats) ![Vinicius-MAfonso Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-MAfonso&layout=compact)
+[![Vinicius-MAfonso GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-MAfonso)](https://github.com/NOMEGIT/github-readme-stats)![Vinicius-MAfonso Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-MAfonso&layout=compact)

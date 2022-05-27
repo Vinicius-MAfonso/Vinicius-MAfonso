@@ -1,7 +1,7 @@
 # Hello World!🌎
 
 #### I'm Vinícius, a student📚 at [Adventist University Center of São Paulo]( https://www.unasp.br) and a beginner developer🖥️.
-
+*“Talk is cheap. Show me the code.”* Linus Torvalds
 - I'm currently playing or learning on my computer📕.
 - I'm learning HTML⚓ and CSS at this moment, and you can see my evolution.
 

@@ -3,7 +3,8 @@
 #### I'm Vinícius, a student📚 at [Adventist University Center of São Paulo]( https://www.unasp.br) and a beginner developer🖥️.
 *“Talk is cheap. Show me the code.”* Linus Torvalds
 - I'm currently playing or learning on my computer📕.
-- I'm learning Java☕ at this moment, and you can see my evolution.
+- I'm learning Python🐍 at this moment, and you can see my evolution.
+- And working for Bosch
 
 ### Contact me
 
